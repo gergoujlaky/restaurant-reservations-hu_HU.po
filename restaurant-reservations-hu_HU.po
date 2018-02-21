@@ -1,0 +1,1589 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Restaurant Reservations 1.6\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/restaurant-reservations\n"
+"POT-Creation-Date: 2016-06-20 07:16:22+00:00\n"
+"PO-Revision-Date: 2018-02-21 16:17+0100\n"
+"Last-Translator: Matias <matiasrodriguez04@gmail.com>\n"
+"Language: hu_HU\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;__:1;"
+"_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;_x:1,2c;"
+"_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;esc_attr__:1;"
+"esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;esc_html_x:1,2c;"
+"comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: hu_HU\n"
+"Language-Team: \n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/MultipleLocations.class.php:546
+msgid ""
+"The name which should appear in the Reply-To field of a user notification email."
+msgstr "Az a név ami megjelenik a felhasználónál, a \"Válasz neki:\" résznél."
+
+#: includes/MultipleLocations.class.php:563
+msgid "Admin Notification Email Address"
+msgstr "Admin e-mail címe"
+
+#: includes/MultipleLocations.class.php:567
+msgid ""
+"The email address where admin notifications for bookings at this location should be "
+"sent."
+msgstr ""
+"Az e-mail cím, ahol az erre a helyre érkező foglalások, adminisztrációs értesítését "
+"kell kiküldeni."
+
+#: includes/Settings.class.php:414
+msgid ""
+"Select how early customers can make their booking. (Administrators and Booking "
+"Managers are not restricted by this setting.)"
+msgstr ""
+"Válaszd ki, hogy mikortól lehet foglalni. (Ez az a beállítás nem korlátozza az "
+"admin és a Booking Manager-t)"
+
+#: includes/WP_List_Table.BookingsTable.class.php:242
+msgid "Between dates"
+msgstr "Dátumok közt"
+
+#: includes/integrations/business-profile.php:187
+msgid "--- Baker"
+msgstr "--- Pékség"
+
+#: includes/integrations/business-profile.php:188
+msgid "--- Bar or Pub"
+msgstr "--- Bár vagy Bup"
+
+#: includes/integrations/business-profile.php:189
+msgid "--- Brewery"
+msgstr "--- Sörfőzde"
+
+#: includes/integrations/business-profile.php:190
+msgid "--- Cafe or Coffee Shop"
+msgstr "--- Kávézó"
+
+#: includes/integrations/business-profile.php:191
+msgid "--- FastFoodRestaurant"
+msgstr "--- Gyorsétterem"
+
+#: includes/integrations/business-profile.php:192
+msgid "--- Ice Cream Shop"
+msgstr "--- Fagylaltozó"
+
+#: includes/integrations/business-profile.php:193
+msgid "--- Restaurant"
+msgstr "--- Étterem"
+
+#: includes/integrations/business-profile.php:194
+msgid "--- Winery"
+msgstr "--- Borászat"
+
+#: includes/Addons.class.php:101 includes/WP_List_Table.BookingsTable.class.php:400
+msgid "Loading"
+msgstr "Betöltés"
+
+#: includes/Addons.class.php:138
+msgid "Addons for Restaurant Reservations"
+msgstr "Bővítmények az Éttermi Foglaláshoz"
+
+#: includes/Addons.class.php:160
+msgid "You have been logged out. Please login again to retrieve the addons."
+msgstr "Kijelentkezett. Jelentkezz vissza, hogy a bővíményekhez visszatérjen."
+
+#: includes/Addons.class.php:176
+msgid ""
+"You do not have permission to access this page. Please login to an administrator "
+"account if you have one."
+msgstr "Nincs jogosultsága ehhez az oldalhoz. Adminként jelentkezzen be."
+
+#: includes/Addons.class.php:204
+msgid ""
+"The addons list could not be retrieved. Please <a href=\"\">try again</a>. If the "
+"problem persists over time, please report it on the <a href=\"http://wordpress.org/"
+"support/plugin/restaurant-reservations\" target=\"_blank\">support forums</a>."
+msgstr ""
+"A bővítmények nem elérhetők. Kérem<a href=\"\">próbálja újra</a>. Ha a brobléma "
+"fennáll, kerese fel: <a href=\"https://wordpress.org/support/plugin/restaurant-"
+"reservations\" target=\"_blank\">támogatási fórum</a>."
+
+#: includes/AdminBookings.class.php:84
+msgid "Restaurant Bookings"
+msgstr "Éttermi foglalás"
+
+#: includes/AdminBookings.class.php:85 includes/CustomPostTypes.class.php:42
+msgid "Add New"
+msgstr "Új hozzáadása"
+
+#: includes/AdminBookings.class.php:123 includes/AdminBookings.class.php:225
+msgid "Columns"
+msgstr "Oszlop"
+
+#: includes/AdminBookings.class.php:163 restaurant-reservations.php:235
+msgid "Add Booking"
+msgstr "Rendelés hozzáadása"
+
+#: includes/AdminBookings.class.php:166 includes/AdminBookings.class.php:207
+#: includes/AdminBookings.class.php:252
+msgid "Cancel"
+msgstr "Mégse"
+
+#: includes/AdminBookings.class.php:187 includes/AdminBookings.class.php:204
+#: includes/WP_List_Table.BookingsTable.class.php:419
+msgid "Send Email"
+msgstr "E-mail küldés"
+
+#: includes/AdminBookings.class.php:194
+msgid "Subject"
+msgstr "Tárgy"
+
+#: includes/AdminBookings.class.php:198 includes/Settings.class.php:830
+#: includes/WP_List_Table.BookingsTable.class.php:441
+msgid "Message"
+msgstr "Üzenet"
+
+#: includes/AdminBookings.class.php:249
+msgid "Update"
+msgstr "Frissítés"
+
+#: includes/AdminBookings.class.php:268 includes/AdminBookings.class.php:277
+msgid "Close"
+msgstr "Bezárás"
+
+#: includes/AdminBookings.class.php:343
+msgid "Booking Status"
+msgstr "Rendelés állapota"
+
+#: includes/AdminBookings.class.php:351
+msgid "Send notifications"
+msgstr "Értesítés küldése"
+
+#: includes/AdminBookings.class.php:356
+msgid "Learn more"
+msgstr "Tudj meg többet"
+
+#: includes/AdminBookings.class.php:357
+msgid ""
+"When adding a booking or changing a booking's status with this form, no email "
+"notifications will be sent. Check this option if you want to send email "
+"notifications."
+msgstr "Foglaláskor vagy foglalás státuszának módosításakor e-mail értesítés kérése."
+
+#: includes/AdminBookings.class.php:411
+#, c-format
+msgid "You have been logged out. Please %slogin again%s."
+msgstr "Kijelentkezett. Kérem, %s jelentkezzen be újra. %s."
+
+#: includes/AdminBookings.class.php:447
+#, c-format
+msgid ""
+"This booking has been sent to the %sTrash%s where it can not be edited. Set the "
+"booking to Pending or Confirmed to edit it."
+msgstr ""
+"A foglalás át lett mozgatva a %sSzemetesbe%s ahol a szerkesztés nem lehetséges. "
+"Szerkesztéshez állítsd a foglalást jóváhagyott-ra vagy függőben lévő-re."
+
+#: includes/AdminBookings.class.php:464
+msgid "The booking could not be retrieved. Please reload the page and try again."
+msgstr "A foglalás nem volt sikeres, kérem frissítse az oldalt és próbálja meg újra."
+
+#: includes/AdminBookings.class.php:546
+msgid ""
+"Unable to trash this post. Please try again. If you continue to have trouble, "
+"please refresh the page."
+msgstr "Törlés sikertelen. Próbáld újra, vagy frissítsd az oldalt."
+
+#: includes/AdminBookings.class.php:588
+msgid "Please enter a message before sending the email."
+msgstr "Kérem írjon üzenetet, az e-mail küldése előtt."
+
+#: includes/AdminBookings.class.php:597
+msgid "The email could not be sent because some critical information was missing."
+msgstr "Az e-mailt nem lehetett elküldeni hiányzó adatok miatt."
+
+#: includes/AdminBookings.class.php:609
+msgid "There was an error loading the booking and the email was not sent."
+msgstr "Valami probléma történt foglalás közben és az e-mail nem lett kiküldve."
+
+#: includes/AdminBookings.class.php:647
+msgid "You must select at least one column to display."
+msgstr "Legalább egy oszlopot ki kell jelölni."
+
+#: includes/AdminPageSettingLicenseKey.class.php:193
+msgid "Invalid"
+msgstr "Érvénytelen"
+
+#: includes/Booking.class.php:180
+msgid "Please enter the date you would like to book."
+msgstr "Kérjük adja meg a foglalás dátumát."
+
+#: includes/Booking.class.php:190
+msgid ""
+"The date you entered is not valid. Please select from one of the dates in the "
+"calendar."
+msgstr "A megadott dátum érvénytelen. Kérjük, válasszon dátumot a naptárból."
+
+#: includes/Booking.class.php:201
+msgid "Please enter the time you would like to book."
+msgstr "Kérjük, adja meg a kívánt foglalási időpontot."
+
+#: includes/Booking.class.php:211
+msgid ""
+"The time you entered is not valid. Please select from one of the times provided."
+msgstr ""
+"A megadott időpont érvénytelen. Kérem válasszon a felsorolt lehetőségek közül."
+
+#: includes/Booking.class.php:231
+#, c-format
+msgid "Sorry, bookings can not be made more than %s days in advance."
+msgstr "Sajnáljuk, a foglalás nem lehetséges %s nappal előre."
+
+#: includes/Booking.class.php:242
+msgid "Sorry, bookings can not be made in the past."
+msgstr "Sajnáljuk, múltbeli foglalás nem lehetséges."
+
+#: includes/Booking.class.php:250
+#, c-format
+msgid "Sorry, bookings must be made more than %s days in advance."
+msgstr "Sajnáljuk, a foglalást több mint %s nappal előtte kell jelezni."
+
+#: includes/Booking.class.php:252
+#, c-format
+msgid "Sorry, bookings must be made more than %s hours in advance."
+msgstr "Sajnáljuk,a foglalást legalább %s órával előre kell jelezni."
+
+#: includes/Booking.class.php:254
+#, c-format
+msgid "Sorry, bookings must be made more than %s minutes in advance."
+msgstr "Sajnáljuk, a foglalást több mint %s perccel előre kell jelezni."
+
+#: includes/Booking.class.php:294
+msgid "Sorry, no bookings are being accepted then."
+msgstr "Sajnáljuk, nem tudunk több foglalást fogadni."
+
+#: includes/Booking.class.php:346
+msgid "Sorry, no bookings are being accepted on that date."
+msgstr "Sajnáljuk, a megadott dátumra a foglalás nem lehetséges."
+
+#: includes/Booking.class.php:352
+msgid "Sorry, no bookings are being accepted at that time."
+msgstr "Sajnáljuk, a megadott időben a foglalás nem lehetséges."
+
+#: includes/Booking.class.php:374
+msgid "Please enter a name for this booking."
+msgstr "Kérjük, adjon meg egy nevet a foglaláshoz."
+
+#: includes/Booking.class.php:384
+msgid "Please let us know how many people will be in your party."
+msgstr "Kérjük, adja meg mennyi főre számíthatunk."
+
+#: includes/Booking.class.php:394
+#, c-format
+msgid "We only accept bookings for parties of up to %d people."
+msgstr "A foglalás csak %d fő felett lehetséges."
+
+#: includes/Booking.class.php:405
+msgid "Please enter an email address so we can confirm your booking."
+msgstr "Kérjük, adjon meg egy e-mail címet a rendelés megerősítéséhez."
+
+#: includes/Booking.class.php:427
+msgid "Please complete this field to request a booking."
+msgstr "Kérjük, töltse ki a megadott részt a foglaláshoz."
+
+#: includes/CustomPostTypes.class.php:38 includes/CustomPostTypes.class.php:40
+#: includes/CustomPostTypes.class.php:41
+#: includes/WP_List_Table.BookingsTable.class.php:113
+msgid "Bookings"
+msgstr "Foglalások"
+
+#: includes/CustomPostTypes.class.php:39
+#: includes/WP_List_Table.BookingsTable.class.php:112
+msgid "Booking"
+msgstr "Foglalás"
+
+#: includes/CustomPostTypes.class.php:43
+msgid "Add New Booking"
+msgstr "Új foglalás hozzáadása"
+
+#: includes/CustomPostTypes.class.php:44 restaurant-reservations.php:236
+msgid "Edit Booking"
+msgstr "Foglalás szerkesztése"
+
+#: includes/CustomPostTypes.class.php:45
+msgid "New Booking"
+msgstr "Új foglalás"
+
+#: includes/CustomPostTypes.class.php:46
+msgid "View Booking"
+msgstr "Foglalás megtekintése"
+
+#: includes/CustomPostTypes.class.php:47
+msgid "Search Bookings"
+msgstr "Foglalás keresése"
+
+#: includes/CustomPostTypes.class.php:48
+msgid "No bookings found"
+msgstr "Nem található rendelés"
+
+#: includes/CustomPostTypes.class.php:49
+msgid "No bookings found in trash"
+msgstr "Nem található foglalás a szemetesben"
+
+#: includes/CustomPostTypes.class.php:50
+msgid "All Bookings"
+msgstr "Összes foglalás"
+
+#: includes/CustomPostTypes.class.php:95
+#, c-format
+msgid "Confirmed <span class=\"count\">(%s)</span>"
+msgid_plural "Confirmed <span class=\"count\">(%s)</span>"
+msgstr[0] "Jóváhagyva <span class=\"count\">(%s)</span>"
+msgstr[1] "Jóváhagyva <span class=\"count\">(%s)</span>"
+
+#: includes/CustomPostTypes.class.php:106
+#, c-format
+msgid "Closed <span class=\"count\">(%s)</span>"
+msgid_plural "Closed <span class=\"count\">(%s)</span>"
+msgstr[0] "Lezárva <span class=\"count\">(%s)</span>"
+msgstr[1] "Lezárva <span class=\"count\">(%s)</span>"
+
+#: includes/Licenses.class.php:119
+msgid "Licenses"
+msgstr "Licensz"
+
+#: includes/Licenses.class.php:121
+#, c-format
+msgid ""
+"Activate license keys for any commercial addons you have purchased. %sView all "
+"addons%s."
+msgstr ""
+"Aktiválj licenszkulcsot a vásárolt bővítmények használatához. %sÖsszes bővítmény%s."
+
+#: includes/Licenses.class.php:205
+msgid ""
+"Your attempt to deactivate a license key failed. Please try again later or contact "
+"support for help."
+msgstr ""
+"A licenszkulcs deaktiválása sikertelen. Próbáld újra, vagy keresd fel a support-ot "
+"további segítségért."
+
+#: includes/Licenses.class.php:209
+#, c-format
+msgid ""
+"You have reached the activation limit for this license. If you have the license "
+"activated on other sites you will need to deactivate them or purchase more license "
+"keys from %sTheme of the Crop%s."
+msgstr ""
+"Elérted az aktiválási limitet ehhez a licenszhez. Ha aktiválva van más weboldalakon "
+"is, akkor azokat deaktiváld, vagy vásárolj új kulcsot. %sTheme of the Crop%s."
+
+#: includes/Licenses.class.php:211
+msgid ""
+"Your attempt to activate a license key failed. Please check the license key and try "
+"again."
+msgstr "Kulcs aktiválása sikertelen, kérlek ellenőrizd a kulcsot és próbáld újra."
+
+#: includes/MultipleLocations.class.php:272 includes/MultipleLocations.class.php:375
+#: includes/MultipleLocations.class.php:419
+msgid "Location"
+msgstr "Hely"
+
+#: includes/MultipleLocations.class.php:327
+msgid "Please select a location for your booking."
+msgstr "Kérem, válassza ki a foglalás helyszínét."
+
+#: includes/MultipleLocations.class.php:334
+msgid "The location you selected is not valid. Please select another location."
+msgstr "A kiválasztott helyszín nem megfelelő. Kérem, válasszon egy másikat."
+
+#: includes/MultipleLocations.class.php:469
+msgid "Reservations"
+msgstr "Helyfoglalás"
+
+#: includes/MultipleLocations.class.php:536
+msgid "Show booking form with this location."
+msgstr "Mutasd az ehhez a helyhez tartozó rendelést."
+
+#: includes/MultipleLocations.class.php:542 includes/Settings.class.php:498
+msgid "Reply-To Name"
+msgstr "\"Válasz neki\" név"
+
+#: includes/MultipleLocations.class.php:552 includes/Settings.class.php:510
+msgid "Reply-To Email Address"
+msgstr "Válasz e-mail cím"
+
+#: includes/MultipleLocations.class.php:556 includes/Settings.class.php:511
+msgid ""
+"The email address which should appear in the Reply-To field of a user notification "
+"email."
+msgstr ""
+"E-mail cím, ami a \"Válasz neki:\" résznél jelenik meg a felhasználó értesítésnél."
+
+#: includes/Notification.class.php:88
+msgid "View pending bookings"
+msgstr "Folyamatban lévő foglalások"
+
+#: includes/Notification.class.php:89
+msgid "Confirm this booking"
+msgstr "Foglalás jóváhagyása"
+
+#: includes/Notification.class.php:90
+msgid "Reject this booking"
+msgstr "Foglalás elutasítása"
+
+#: includes/Settings.class.php:230 includes/Settings.class.php:231
+msgid "Settings"
+msgstr "Beállítások"
+
+#: includes/Settings.class.php:243
+msgid "General"
+msgstr "Általános"
+
+#: includes/Settings.class.php:254
+msgid "Booking Page"
+msgstr "Foglalás oldala"
+
+#: includes/Settings.class.php:255
+msgid ""
+"Select a page on your site to automatically display the booking form and "
+"confirmation message."
+msgstr ""
+"Válasszon egy oldalt a webhelyén, hogy automatikusan megjelenítse a foglalási "
+"űrlapot és a megerősítő üzenetet."
+
+#: includes/Settings.class.php:271
+msgid "Max Party Size"
+msgstr "Maximum férőhelyek"
+
+#: includes/Settings.class.php:272
+msgid "Set a maximum allowed party size for bookings."
+msgstr "Maximum férőhely beállítása a foglalásokhoz."
+
+#: includes/Settings.class.php:284
+msgid "Success Message"
+msgstr "Sikeres foglalás üzenete"
+
+#: includes/Settings.class.php:285
+msgid "Enter the message to display when a booking request is made."
+msgstr ""
+"Add meg azt az üzenetet, amit a foglaláskor automatikusan szeretnél kiküldeni."
+
+#: includes/Settings.class.php:296
+msgid "Date Format"
+msgstr "Dátum formátuma"
+
+#: includes/Settings.class.php:297
+#, c-format
+msgid ""
+"Define how the date is formatted on the booking form. %sFormatting rules%s. This "
+"only changes the format on the booking form. To change the date format in "
+"notification messages, modify your general %sWordPress Settings%s."
+msgstr ""
+"Állítsd be a dátum formátumát. %sFormátum szabályok.%s. Ez a beállítás csak a "
+"foglalási űrlapot módosítja. Értesítési üzenetben lévő dátum formátum módosításhoz, "
+"állítsd át az általános beállításokban. %sWordPress beállításoks%s."
+
+#: includes/Settings.class.php:308
+msgid "Time Format"
+msgstr "Idő formátuma"
+
+#: includes/Settings.class.php:309
+#, c-format
+msgid ""
+"Define how the time is formatted on the booking form. %sFormatting rules%s. This "
+"only changes the format on the booking form. To change the time format in "
+"notification messages, modify your general %sWordPress Settings%s."
+msgstr ""
+"Állítsd be az idő formátumát. %sFormátum szabályok.%s. Ez a beállítás csak a "
+"foglalási űrlapot módosítja. Értesítési üzenetben lévő dátum formátum módosításhoz, "
+"állítsd át az általános beállításokban. %sWordPress beállításoks%s."
+
+#: includes/Settings.class.php:322
+msgid "Language"
+msgstr "Nyelv"
+
+#: includes/Settings.class.php:323
+msgid ""
+"Select a language to use for the booking form datepicker if it is different than "
+"your WordPress language setting."
+msgstr ""
+"Válasszon ki egy nyelvet, amelyet használni szeretne a foglalási űrlapon, de csak "
+"ha eltér a WordPress nyelvi beállításaitól."
+
+#: includes/Settings.class.php:333
+msgid "Booking Schedule"
+msgstr "Foglalás ütemezése"
+
+#: includes/Settings.class.php:340
+msgid "Add new scheduling rule"
+msgstr "Új ütemezési szabály hozzáadása"
+
+#: includes/Settings.class.php:354
+msgid "Delete scheduling rule"
+msgstr "Ütemezési szabály törlése"
+
+#: includes/Settings.class.php:371
+msgid "Schedule"
+msgstr "Ütemezés"
+
+#: includes/Settings.class.php:372
+msgid "Define the weekly schedule during which you accept bookings."
+msgstr "Határozza meg a heti ütemezést, amíg jóváhagyod a foglalásokat."
+
+#: includes/Settings.class.php:397
+msgid "Exceptions"
+msgstr "Kivételek"
+
+#: includes/Settings.class.php:398
+msgid ""
+"Define special opening hours for holidays, events or other needs. Leave the time "
+"empty if you're closed all day."
+msgstr ""
+"Állítsd be a \" különleges\" nyitvatartási időket (pl. ünnepek). Hagyd ki az Időt "
+"ha egész nap zárva van a hely."
+
+#: includes/Settings.class.php:413
+msgid "Early Bookings"
+msgstr "Korai foglalások"
+
+#: includes/Settings.class.php:417
+msgid "Any time"
+msgstr "Bármikor"
+
+#: includes/Settings.class.php:418
+msgid "Up to 1 day in advance"
+msgstr "Legfeljebb 1 nappal előtte"
+
+#: includes/Settings.class.php:419
+msgid "Up to 1 week in advance"
+msgstr "Legfeljebb 1 héttel előtte"
+
+#: includes/Settings.class.php:420
+msgid "Up to 2 weeks in advance"
+msgstr "Legfeljebb 2 héttel előtte"
+
+#: includes/Settings.class.php:421
+msgid "Up to 30 days in advance"
+msgstr "Legfeljebb 30 nappal előtte"
+
+#: includes/Settings.class.php:422
+msgid "Up to 90 days in advance"
+msgstr "Legfeljebb 90 nappal előtte"
+
+#: includes/Settings.class.php:433
+msgid "Late Bookings"
+msgstr "Késői fogalások"
+
+#: includes/Settings.class.php:434
+msgid ""
+"Select how late customers can make their booking. (Administrators and Booking "
+"Managers are not restricted by this setting.)"
+msgstr ""
+"Válaszd ki milyen későn lehet foglalni. (Adminisztrátort és Booking Manager-t ez a "
+"beállítás nem korlátoz.)"
+
+#: includes/Settings.class.php:437
+msgid "Up to the last minute"
+msgstr "Az utolsó pillanatban"
+
+#: includes/Settings.class.php:438
+msgid "At least 15 minutes in advance"
+msgstr "Legalább 15 perccel előtte"
+
+#: includes/Settings.class.php:439
+msgid "At least 30 minutes in advance"
+msgstr "Legalább 30 perccel előtte"
+
+#: includes/Settings.class.php:440
+msgid "At least 45 minutes in advance"
+msgstr "Legalább 45 perccel előtte"
+
+#: includes/Settings.class.php:441
+msgid "At least 1 hour in advance"
+msgstr "Legalább 1 órával előtte"
+
+#: includes/Settings.class.php:442
+msgid "At least 4 hours in advance"
+msgstr "Legalább 4 órával előtte"
+
+#: includes/Settings.class.php:443
+msgid "At least 1 day in advance"
+msgstr "Legalább 1 nappal előtte"
+
+#: includes/Settings.class.php:454
+msgid "Date Pre-selection"
+msgstr "Dátum előzetes kiválasztása"
+
+#: includes/Settings.class.php:455
+msgid ""
+"When the booking form is loaded, should it automatically attempt to select a valid "
+"date?"
+msgstr ""
+"A foglalási űrlap betöltésekor automatikusan megpróbálja kiválasztani az érvényes "
+"dátumot?"
+
+#: includes/Settings.class.php:458
+msgid "Select today if valid"
+msgstr "Válassza ki a mai napot, ha az lehetséges"
+
+#: includes/Settings.class.php:459
+msgid "Select today or next valid date"
+msgstr "Válassza ki a mai napot, vagy a következő érvényes időpontot"
+
+#: includes/Settings.class.php:460
+msgid "Leave empty"
+msgstr "Hagyd üresen"
+
+#: includes/Settings.class.php:471
+msgid "Time Interval"
+msgstr "Időintervallum"
+
+#: includes/Settings.class.php:472
+msgid "Select the number of minutes between each available time."
+msgstr "Adja meg a percet, az elérhető korlátokon belül."
+
+#: includes/Settings.class.php:475
+msgid "Every 30 minutes"
+msgstr "Minden 30. percben"
+
+#: includes/Settings.class.php:476
+msgid "Every 15 minutes"
+msgstr "Minden 15. percben"
+
+#: includes/Settings.class.php:477
+msgid "Every 10 minutes"
+msgstr "Minden 10. percben"
+
+#: includes/Settings.class.php:478
+msgid "Every 5 minutes"
+msgstr "Minden 5. percben"
+
+#: includes/Settings.class.php:487
+msgid "Notifications"
+msgstr "Értesítések"
+
+#: includes/Settings.class.php:499
+msgid ""
+"The name which should appear in the Reply-To field of a user notification email"
+msgstr "A felhasználó értesítési e-mail-ben, a \"Válasz neki:\"mezőben megjelenő név"
+
+#: includes/Settings.class.php:522
+msgid "Admin Notification"
+msgstr "Admin értesítés"
+
+#: includes/Settings.class.php:523
+msgid ""
+"Send an email notification to an administrator when a new booking is requested."
+msgstr "E-mail értesítés küldése admin-nak új foglalás érkezése esetén."
+
+#: includes/Settings.class.php:533
+msgid "Admin Email Address"
+msgstr "Admin e-mail címe"
+
+#: includes/Settings.class.php:534
+msgid "The email address where admin notifications should be sent."
+msgstr "Adminisztrátor e-mail címe."
+
+#: includes/Settings.class.php:543
+msgid "Email Templates"
+msgstr "E-mail sablon"
+
+#: includes/Settings.class.php:545
+msgid ""
+"Adjust the messages that are emailed to users and admins during the booking process."
+msgstr ""
+"Állítsa be a felhasználóknak és rendszergazdáknak e-mailben küldött üzeneteket a "
+"foglalás során."
+
+#: includes/Settings.class.php:555
+msgid "Template Tags"
+msgstr "Sablon címek"
+
+#: includes/Settings.class.php:557
+msgid ""
+"Use the following tags to automatically add booking information to the emails. Tags "
+"labeled with an asterisk (*) can be used in the email subject as well."
+msgstr ""
+"Használja a következő címkéket, hogy automatikusan hozzáadja a foglalási adatokat "
+"az e-mailekhez. A csillaggal (*) ellátott címkék is használhatók az e-mailben."
+
+#: includes/Settings.class.php:568
+msgid "Admin Notification Subject"
+msgstr "Admin értesítés tárgya"
+
+#: includes/Settings.class.php:569
+msgid "The email subject for admin notifications."
+msgstr "Admin értesítési e-mail tárgya."
+
+#: includes/Settings.class.php:580
+msgid "Admin Notification Email"
+msgstr "Admin értesítési e-mail"
+
+#: includes/Settings.class.php:581
+msgid ""
+"Enter the email an admin should receive when an initial booking request is made."
+msgstr ""
+"Adja meg azt az e-mailt, amelyet az adminisztrátornak meg kell kapnia, amikor egy "
+"előzetes foglalási kérelmet küldtek be."
+
+#: includes/Settings.class.php:592
+msgid "New Request Email Subject"
+msgstr "Új kérés e-mail tárgya"
+
+#: includes/Settings.class.php:593
+msgid ""
+"The email subject a user should receive when they make an initial booking request."
+msgstr ""
+"Az e-mail tárgya, amelyet a felhasználónak meg kell kapnia, amikor első foglalási "
+"kérelmet nyújt be."
+
+#: includes/Settings.class.php:604
+msgid "New Request Email"
+msgstr "Új igénylő e-mail"
+
+#: includes/Settings.class.php:605
+msgid ""
+"Enter the email a user should receive when they make an initial booking request."
+msgstr ""
+"Adja meg az e-mailt, amelyet a felhasználónak meg kell kapnia, amikor egy előzetes "
+"foglalási kérelmet nyújt be."
+
+#: includes/Settings.class.php:616
+msgid "Confirmed Email Subject"
+msgstr "Jóváhagyó e-mail tárgya"
+
+#: includes/Settings.class.php:617
+msgid "The email subject a user should receive when their booking has been confirmed."
+msgstr "Foglaló felé küldött e-mail tárgya, amit a foglalás megerősítésnél kap."
+
+#: includes/Settings.class.php:628
+msgid "Confirmed Email"
+msgstr "Jóváhagyó e-mail"
+
+#: includes/Settings.class.php:629
+msgid "Enter the email a user should receive when their booking has been confirmed."
+msgstr "Az e-mail, amit a foglaló kap a foglalás jóváhagyásakor."
+
+#: includes/Settings.class.php:640
+msgid "Rejected Email Subject"
+msgstr "Visszautasító e-mail tárgya"
+
+#: includes/Settings.class.php:641
+msgid "The email subject a user should receive when their booking has been rejected."
+msgstr "Foglaló felé küldött e-mail tárgya, amit a foglalás elutasításakor kap."
+
+#: includes/Settings.class.php:652
+msgid "Rejected Email"
+msgstr "Visszautasított e-mail"
+
+#: includes/Settings.class.php:653
+msgid "Enter the email a user should receive when their booking has been rejected."
+msgstr "Az e-mail, amit a foglaló kap a foglalás elutasításakor."
+
+#: includes/Settings.class.php:664
+msgid "Admin Update Subject"
+msgstr "Admin update tárgya"
+
+#: includes/Settings.class.php:665
+#, c-format
+msgid ""
+"The email subject a user should receive when an admin sends them a custom email "
+"message from the %sbookings panel%s."
+msgstr ""
+"Foglaló felé küldött e-mail tárgya, amit az admin küld egyedi, vagy alkalmi "
+"üzenetként küld a %s foglalási felületről%s."
+
+#: includes/Settings.class.php:683
+msgid "Any size"
+msgstr "Bármely méret"
+
+#: includes/Settings.class.php:771 includes/integrations/business-profile.php:100
+msgid "Book a table"
+msgstr "Asztalfoglalás"
+
+#: includes/Settings.class.php:774 includes/WP_List_Table.BookingsTable.class.php:357
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/Settings.class.php:780
+msgid "Time"
+msgstr "Óra"
+
+#: includes/Settings.class.php:786 includes/WP_List_Table.BookingsTable.class.php:358
+msgid "Party"
+msgstr "Fő"
+
+#: includes/Settings.class.php:799
+msgid "Contact Details"
+msgstr "Elérhetőség"
+
+#: includes/Settings.class.php:802 includes/WP_List_Table.BookingsTable.class.php:359
+msgid "Name"
+msgstr "Név"
+
+#: includes/Settings.class.php:808 includes/WP_List_Table.BookingsTable.class.php:360
+msgid "Email"
+msgstr "E-mail"
+
+#: includes/Settings.class.php:817 includes/WP_List_Table.BookingsTable.class.php:361
+msgid "Phone"
+msgstr "Telefon"
+
+#: includes/Settings.class.php:825
+msgid "Add a Message"
+msgstr "Üzenet hozzáadása"
+
+#: includes/Settings.class.php:875
+msgid "Email of the user who made the booking"
+msgstr "A foglalást feladó e-mail címe"
+
+#: includes/Settings.class.php:876
+msgid "* Name of the user who made the booking"
+msgstr "* Foglalást feladó neve"
+
+#: includes/Settings.class.php:877
+msgid "* Number of people booked"
+msgstr "* Foglalt helyek száma"
+
+#: includes/Settings.class.php:878
+msgid "* Date and time of the booking"
+msgstr "* Foglalás dátuma és időpontja"
+
+#: includes/Settings.class.php:879
+msgid "Phone number if supplied with the request"
+msgstr "Telefonszám (ha meg lett adva)"
+
+#: includes/Settings.class.php:880
+msgid "Message added to the request"
+msgstr "Foglalás üzenete"
+
+#: includes/Settings.class.php:881
+msgid "A link to the admin panel showing pending bookings"
+msgstr "Link az admin felületre elfogadásra váró foglalásaihoz"
+
+#: includes/Settings.class.php:882
+msgid "A link to confirm this booking. Only include this in admin notifications"
+msgstr "Link a foglalás jóváhagyásáoz. Csak admin értesítésnél"
+
+#: includes/Settings.class.php:883
+msgid "A link to reject this booking. Only include this in admin notifications"
+msgstr "Link a foglaláselutasításához. Csak admin értesítésnél"
+
+#: includes/Settings.class.php:884
+msgid "The name of this website"
+msgstr "Website neve"
+
+#: includes/Settings.class.php:885
+msgid "A link to this website"
+msgstr "Link a webite-hoz"
+
+#: includes/Settings.class.php:886
+msgid "Current date and time"
+msgstr "Jelenlegi dátum és idő"
+
+#: includes/WP_List_Table.BookingsTable.class.php:233
+msgid "Upcoming"
+msgstr "Közelgő/következő"
+
+#: includes/WP_List_Table.BookingsTable.class.php:234
+msgid "Today"
+msgstr "Ma"
+
+#: includes/WP_List_Table.BookingsTable.class.php:235
+#: includes/WP_List_Table.BookingsTable.class.php:281
+msgid "All"
+msgstr "Összes"
+
+#: includes/WP_List_Table.BookingsTable.class.php:254
+msgid "Start Date:"
+msgstr "Kezdő dátum:"
+
+#: includes/WP_List_Table.BookingsTable.class.php:255
+msgid "Start Date"
+msgstr "Kezdő dátum"
+
+#: includes/WP_List_Table.BookingsTable.class.php:256
+msgid "End Date:"
+msgstr "Befejezés dátuma:"
+
+#: includes/WP_List_Table.BookingsTable.class.php:257
+msgid "End Date"
+msgstr "Záró dátum"
+
+#: includes/WP_List_Table.BookingsTable.class.php:258
+msgid "Apply"
+msgstr "Jóváhagyás"
+
+#: includes/WP_List_Table.BookingsTable.class.php:260
+msgid "Clear Filter"
+msgstr "Szűrő törlése"
+
+#: includes/WP_List_Table.BookingsTable.class.php:282
+msgid "Pending"
+msgstr "Függőben lévő"
+
+#: includes/WP_List_Table.BookingsTable.class.php:283
+msgid "Confirmed"
+msgstr "Jóváhagyva"
+
+#: includes/WP_List_Table.BookingsTable.class.php:284
+msgid "Closed"
+msgstr "Lezárva"
+
+#: includes/WP_List_Table.BookingsTable.class.php:285
+#: includes/WP_List_Table.BookingsTable.class.php:405
+msgid "Trash"
+msgstr "Szemetes"
+
+#: includes/WP_List_Table.BookingsTable.class.php:362
+msgid "Status"
+msgstr "Státusz"
+
+#: includes/WP_List_Table.BookingsTable.class.php:363
+msgid "Details"
+msgstr "Részletek"
+
+#: includes/WP_List_Table.BookingsTable.class.php:404
+msgid "Edit"
+msgstr "Szerkesztés"
+
+#: includes/WP_List_Table.BookingsTable.class.php:522
+msgid "Delete"
+msgstr "Törlés"
+
+#: includes/WP_List_Table.BookingsTable.class.php:523
+msgid "Set To Confirmed"
+msgstr "Beállítás: jóváhagyva"
+
+#: includes/WP_List_Table.BookingsTable.class.php:524
+msgid "Set To Pending Review"
+msgstr "Beállítás: függőben lévő"
+
+#: includes/WP_List_Table.BookingsTable.class.php:525
+msgid "Set To Closed"
+msgstr "Beállítás: lezárva"
+
+#: includes/WP_List_Table.BookingsTable.class.php:639
+#, c-format
+msgid "%d booking deleted successfully."
+msgid_plural "%d bookings deleted successfully."
+msgstr[0] "%d foglalás sikeresen törölve."
+msgstr[1] "%d foglalások sikeresen törölve."
+
+#: includes/WP_List_Table.BookingsTable.class.php:642
+#, c-format
+msgid "%d booking confirmed."
+msgid_plural "%d bookings confirmed."
+msgstr[0] "%d foglalás jóváhagyva."
+msgstr[1] "%d foglalások jóváhagyva."
+
+#: includes/WP_List_Table.BookingsTable.class.php:645
+#, c-format
+msgid "%d booking set to pending."
+msgid_plural "%d bookings set to pending."
+msgstr[0] "%d foglalás rögzítése folyamatban."
+msgstr[1] "%d foglalások rögzítése folyamatban."
+
+#: includes/WP_List_Table.BookingsTable.class.php:648
+#, c-format
+msgid "%d booking closed."
+msgid_plural "%d bookings closed."
+msgstr[0] "%d Foglalás lezárva."
+msgstr[1] "%d Foglalások lezárva."
+
+#: includes/WP_List_Table.BookingsTable.class.php:660
+#, c-format
+msgid "%d booking had errors and could not be processed."
+msgid_plural "%d bookings had errors and could not be processed."
+msgstr[0] "%d foglalásban hibák vannak és nem hajtható végre."
+msgstr[1] "%d foglalásokban hibák vannak és nem hajtható végre."
+
+#: includes/WP_List_Table.BookingsTable.class.php:712
+#: includes/WP_List_Table.BookingsTable.class.php:733
+msgid "All Locations"
+msgstr "Összes hely"
+
+#: includes/WP_List_Table.BookingsTable.class.php:740
+msgid "Inactive Locations"
+msgstr "Inaktív helyek"
+
+#: includes/WP_List_Table.BookingsTable.class.php:749
+msgid "Switch"
+msgstr "Váltás"
+
+#: includes/WP_List_Table.BookingsTable.class.php:781
+msgid "You're viewing bookings that have been moved to the trash."
+msgstr "Törölt foglalások ellenőrzése."
+
+#: includes/WP_List_Table.BookingsTable.class.php:790
+msgid "Only today's bookings are being shown."
+msgstr "Csak a mai foglalások mutatása."
+
+#: includes/WP_List_Table.BookingsTable.class.php:792
+msgid "Only upcoming bookings are being shown."
+msgstr "Csak a közelgő foglalások mutatása."
+
+#: includes/WP_Widget.BookingFormWidget.class.php:25
+msgid "Booking Form"
+msgstr "Foglalás"
+
+#: includes/WP_Widget.BookingFormWidget.class.php:26
+msgid "Display a form to accept bookings."
+msgstr "Form mutatása a foglalások jóváhagyásához."
+
+#: includes/WP_Widget.BookingFormWidget.class.php:64
+msgid "Title"
+msgstr "Cím"
+
+#: includes/integrations/business-profile.php:124
+#: includes/integrations/business-profile.php:127
+msgid "Show book a table link"
+msgstr "Show book a table link"
+
+#: includes/template-functions.php:126
+msgid "Request Booking"
+msgstr "Foglalás kérése"
+
+#: lib/simple-admin-pages/classes/AdminPage.class.php:173
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Nincs megfelelő jogosultság az oldal megtekintéséhez."
+
+#: node_modules/grunt-wp-i18n/test/fixtures/basic-theme/exclude/file.php:3
+#: node_modules/grunt-wp-i18n/test/fixtures/plugin-include/plugin-include.php:6
+msgid "Exclude"
+msgstr "Kizár"
+
+#: node_modules/grunt-wp-i18n/test/fixtures/plugin-include/include/file.php:2
+msgid "Include"
+msgstr "Tartalmaz"
+
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/add-domain.php:2
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:2
+#: node_modules/grunt-wp-i18n/test/fixtures/text-domains/update-domains.php:3
+msgid "String"
+msgstr "Szöveg (string)"
+
+#: restaurant-reservations.php:166
+msgid "Booking Manager"
+msgstr "Foglalás Manager"
+
+#: restaurant-reservations.php:237
+msgid ""
+"An unspecified error occurred. Please try again. If the problem persists, try "
+"logging out and logging back in."
+msgstr "Váratlan hiba történt. Próbáld újra, vagy jelentkezz be újra."
+
+#: restaurant-reservations.php:299
+msgid "View the help documentation for Restaurant Reservations"
+msgstr "Tekintsd meg a Foglalási útmutatót"
+
+#: restaurant-reservations.php:299
+msgid "Help"
+msgstr "Segítség"
+
+#. Plugin Name of the plugin/theme
+msgid "Restaurant Reservations"
+msgstr "Éttermi foglalás"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "http://themeofthecrop.com"
+msgstr "http://themeofthecrop.com"
+
+#. Description of the plugin/theme
+msgid "Accept restaurant reservations and bookings online."
+msgstr "Étteremi és online foglalás elfogadása."
+
+#. Author of the plugin/theme
+msgid "Theme of the Crop"
+msgstr "Crop témája"
+
+#: includes/Addons.class.php:102
+msgctxt "Error message when retrieving list of addons"
+msgid "An unknown error occured."
+msgstr "Ismeretlen hiba."
+
+#: includes/Addons.class.php:103
+msgctxt "Label for an addon that is already installed and activated."
+msgid "Already Installed"
+msgstr "Már telepítve van"
+
+#: includes/Addons.class.php:104
+msgctxt "Label for an addon that is not yet released."
+msgid "Coming Soon"
+msgstr "Hamarosan"
+
+#: includes/Addons.class.php:105
+msgctxt "Label for an addon that is free."
+msgid "Free"
+msgstr "Ingyenes"
+
+#: includes/Addons.class.php:106
+msgctxt "Label for an addon that is released."
+msgid "Get It"
+msgstr "Szerezd meg"
+
+#: includes/Addons.class.php:120
+msgctxt "Title of addons page"
+msgid "Addons"
+msgstr "Bővítmények"
+
+#: includes/Addons.class.php:121
+msgctxt "Title of addons page in the admin menu"
+msgid "Addons"
+msgstr "Bővítmények"
+
+#: includes/Addons.class.php:221
+#, c-format
+msgctxt "restaurant-reservations"
+msgid ""
+"Find out when new addons are available by subscribing to the %smonthly newsletter%s "
+"or following %sTheme of the Crop%s on Twitter."
+msgstr ""
+"Nézd meg az új bővítényeket a %shavi hírlevélen%s, vagy a következő %sCrop témát%s "
+"a Twitteren."
+
+#: includes/Settings.class.php:92
+msgctxt "restaurant-reservations"
+msgid ""
+"Thanks, your booking request is waiting to be confirmed. Updates will be sent to "
+"the email address you provided."
+msgstr ""
+"Köszönjük, a foglalásai kérelme jóváhagyásra vár, hamarosan tájékoztatjuk a "
+"megadott e-mail címen."
+
+#: includes/AdminBookings.class.php:60
+msgctxt "Title of admin page that lists bookings"
+msgid "Bookings"
+msgstr "Foglalások"
+
+#: includes/AdminBookings.class.php:61
+msgctxt "Title of bookings admin menu item"
+msgid "Bookings"
+msgstr "Foglalások"
+
+#: includes/AdminBookings.class.php:190
+msgctxt "Label next to the email address to which an email will be sent"
+msgid "To"
+msgstr "Neki"
+
+#: includes/CustomPostTypes.class.php:82
+msgctxt "Booking status when it is pending review"
+msgid "Pending"
+msgstr "Függőben"
+
+#: includes/CustomPostTypes.class.php:88
+msgctxt "Booking status for a confirmed booking"
+msgid "Confirmed"
+msgstr "Jóváhagyva"
+
+#: includes/CustomPostTypes.class.php:99
+msgctxt "Booking status for a closed booking"
+msgid "Closed"
+msgstr "Lezárva"
+
+#: includes/MultipleLocations.class.php:101
+msgctxt "Name for grouping bookings"
+msgid "Location"
+msgstr "Hely"
+
+#: includes/Settings.class.php:93
+msgctxt ""
+"Default date format for display. Must match formatting rules at http://amsul.ca/"
+"pickadate.js/date.htm#formatting-rules"
+msgid "mmmm d, yyyy"
+msgstr "mmmm d, yyyy"
+
+#: includes/Settings.class.php:94
+msgctxt ""
+"Default time format for display. Must match formatting rules at http://amsul.ca/"
+"pickadate.js/time.htm#formats"
+msgid "h:i A"
+msgstr "h:i A"
+
+#: includes/Settings.class.php:95
+msgctxt "Default interval in minutes when selecting a time."
+msgid "30"
+msgstr "30"
+
+#: includes/Settings.class.php:105
+msgctxt "Default email subject for admin notifications of new bookings"
+msgid "New Booking Request"
+msgstr "Új foglalási kérelem"
+
+#: includes/Settings.class.php:106
+msgctxt ""
+"Default email sent to the admin when a new booking request is made. The tags in "
+"{brackets} will be replaced by the appropriate content and should be left in place. "
+"HTML is allowed, but be aware that many email clients do not handle HTML very well."
+msgid ""
+"A new booking request has been made at {site_name}:\n"
+"\n"
+"{user_name}\n"
+"{party} people\n"
+"{date}\n"
+"\n"
+"{bookings_link}\n"
+"{confirm_link}\n"
+"{close_link}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>This message was sent by {site_link} on {current_time}.</em>"
+msgstr ""
+"Új foglalási kérelem érkezett innen: {site_name}:\n"
+"\n"
+"Név: {user_name}\n"
+"Fő: {party} \n"
+"Dátum: {date}\n"
+"\n"
+"{bookings_link}   {confirm_link}   {close_link}\n"
+"\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>Ezt az üzenetet {site_link} küldte, current_time} időpontban.</em>"
+
+#: includes/Settings.class.php:124
+#, c-format
+msgctxt ""
+"Default email subject sent to user when they request a booking. %s will be replaced "
+"by the website name"
+msgid "Your booking at %s is pending"
+msgstr "A foglalás ( %s ) folyamatban van"
+
+#: includes/Settings.class.php:125
+msgctxt ""
+"Default email sent to users when they make a new booking request. The tags in "
+"{brackets} will be replaced by the appropriate content and should be left in place. "
+"HTML is allowed, but be aware that many email clients do not handle HTML very well."
+msgid ""
+"Thanks {user_name},\n"
+"\n"
+"Your booking request is <strong>waiting to be confirmed</strong>.\n"
+"\n"
+"Give us a few moments to make sure that we've got space for you. You will receive "
+"another email from us soon. If this request was made outside of our normal working "
+"hours, we may not be able to confirm it until we're open again.\n"
+"\n"
+"<strong>Your request details:</strong>\n"
+"{user_name}\n"
+"{party} people\n"
+"{date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>This message was sent by {site_link} on {current_time}.</em>"
+msgstr ""
+"Köszönjük {user_name},\n"
+"\n"
+"A foglalás<strong>jóváhagyásra vár</strong>.\n"
+"\n"
+"Kérem, adjon egy kis időt számunkra, míg meg tudunk bizonyosodni arról, hogy van-e "
+"szabad hely. Hamarosan egy újabb e-mailt fog kapni tőlünk. Amennyiben nem "
+"nyitvatartási időben foglalt asztalt, akkor előfordulhat, hogy csak nyitás után "
+"tudunk reagálni a küldött e-mailre.\n"
+"\n"
+"<strong>Részletek::</strong>\n"
+"Név {user_name}\n"
+"Fő: {party}\n"
+"Dátum: {date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>Ezt az üzenetet a következő oldalról kapta: {site_link}, a következő "
+"időpontban: {current_time}.</em>"
+
+#: includes/Settings.class.php:145
+msgctxt ""
+"Default email sent to users when they make a new booking request. The tags in "
+"{brackets} will be replaced by the appropriate content and should be left in place. "
+"HTML is allowed, but be aware that many email clients do not handle HTML very well."
+msgid ""
+"Hi {user_name},\n"
+"\n"
+"Your booking request has been <strong>confirmed</strong>. We look forward to seeing "
+"you soon.\n"
+"\n"
+"<strong>Your booking:</strong>\n"
+"{user_name}\n"
+"{party} people\n"
+"{date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>This message was sent by {site_link} on {current_time}.</em>"
+msgstr ""
+"Kedves {user_name},\n"
+"\n"
+"A foglalás státusza: <strong>jóváhagyva</strong>. \n"
+"Foglalásodat rögzítettük. Várunk sok szeretettel a Fehér Nyúl Sörfőzdében. "
+"Soroksári út 110-112 .\n"
+"Bízunk benne, hogy hamarosan találkozunk!\n"
+"\n"
+"<strong>Részletek:</strong>\n"
+"Név {user_name}\n"
+"Fő: {party}\n"
+"Dátum: {date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>Ezt az üzenetet a következő oldalról kapta: {site_link}, a következő "
+"időpontban: {current_time}.</em>"
+
+#: includes/Settings.class.php:163
+msgctxt ""
+"Default email sent to users when they make a new booking request. The tags in "
+"{brackets} will be replaced by the appropriate content and should be left in place. "
+"HTML is allowed, but be aware that many email clients do not handle HTML very well."
+msgid ""
+"Hi {user_name},\n"
+"\n"
+"Sorry, we could not accomodate your booking request. We're full or not open at the "
+"time you requested:\n"
+"\n"
+"{user_name}\n"
+"{party} people\n"
+"{date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>This message was sent by {site_link} on {current_time}.</em>"
+msgstr ""
+"Kedves {user_name},\n"
+"\n"
+"Sajnáljuk, nem tudjuk a foglalásodat rögzíteni. A választott időpontban telt házunk "
+"van, vagy egyéb okból nem vagyunk nyitva \n"
+"\n"
+"<strong>Részletek:</strong>\n"
+"Név {user_name}\n"
+"Fő: {party}\n"
+"Dátum: {date}\n"
+"\n"
+"&nbsp;\n"
+"\n"
+"<em>Ezt az üzenetet a következő oldalról kapta: {site_link}, a következő "
+"időpontban: {current_time}.</em>"
+
+#: includes/Settings.class.php:144
+#, c-format
+msgctxt ""
+"Default email subject sent to user when their booking is confirmed. %s will be "
+"replaced by the website name"
+msgid "Your booking at %s is confirmed"
+msgstr "A foglalását %s jóváhagytuk"
+
+#: includes/Settings.class.php:162
+#, c-format
+msgctxt ""
+"Default email subject sent to user when their booking is rejected. %s will be "
+"replaced by the website name"
+msgid "Your booking at %s was not accepted"
+msgstr "Foglalását nem tudtuk jóváhagyni: %s"
+
+#: includes/Settings.class.php:179
+#, c-format
+msgctxt ""
+"Default email subject sent to users when the admin sends a custom notice email from "
+"the bookings panel."
+msgid "Update regarding your booking at %s"
+msgstr "Foglalását frissítettük %s"
+
+#: includes/Settings.class.php:341
+msgctxt "Format of a scheduling rule"
+msgid "Weekly"
+msgstr "Hetente"
+
+#: includes/Settings.class.php:342
+msgctxt "Format of a scheduling rule"
+msgid "Monthly"
+msgstr "Havonta"
+
+#: includes/Settings.class.php:343
+msgctxt "Format of a scheduling rule"
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/Settings.class.php:344
+msgctxt "Label for selecting days of the week in a scheduling rule"
+msgid "Days of the week"
+msgstr "Hét napjai"
+
+#: includes/Settings.class.php:345
+msgctxt "Label for selecting weeks of the month in a scheduling rule"
+msgid "Weeks of the month"
+msgstr "Hónap hetei"
+
+#: includes/Settings.class.php:346
+msgctxt "Label to select a date for a scheduling rule"
+msgid "Date"
+msgstr "Dátum"
+
+#: includes/Settings.class.php:347
+msgctxt "Label to select a time slot for a scheduling rule"
+msgid "Time"
+msgstr "Idő"
+
+#: includes/Settings.class.php:348
+msgctxt "Label to set a scheduling rule to last all day"
+msgid "All day"
+msgstr "Egész nap"
+
+#: includes/Settings.class.php:349
+msgctxt "Label for the starting time of a scheduling rule"
+msgid "Start"
+msgstr "Kezdés"
+
+#: includes/Settings.class.php:350
+msgctxt "Label for the ending time of a scheduling rule"
+msgid "End"
+msgstr "Befejezés"
+
+#: includes/Settings.class.php:351
+#, c-format
+msgctxt "Prompt displayed when a scheduling rule is set without any time restrictions"
+msgid "All day long. Want to %sset a time slot%s?"
+msgstr "Egész nap. Szeretmél %s idő slotot%s beállítani?"
+
+#: includes/Settings.class.php:352
+msgctxt "Toggle a scheduling rule open and closed"
+msgid "Open and close this rule"
+msgstr "Szabály megnyitása és bezárása"
+
+#: includes/Settings.class.php:353
+msgctxt "Delete a scheduling rule"
+msgid "Delete rule"
+msgstr "Szabály törlése"
+
+#: includes/Settings.class.php:355
+msgctxt ""
+"Brief default description of a scheduling rule when no weekdays or weeks are "
+"included in the rule"
+msgid "Never"
+msgstr "Soha"
+
+#: includes/Settings.class.php:356
+msgctxt ""
+"Brief default description of a scheduling rule when all the weekdays/weeks are "
+"included in the rule"
+msgid "Every day"
+msgstr "Minden nap"
+
+#: includes/Settings.class.php:357
+#, c-format
+msgctxt ""
+"Brief default description of a scheduling rule when some weekdays are included on "
+"only some weeks of the month. %s should be left alone and will be replaced by a "
+"comma-separated list of days and weeks in the following format: M, T, W on the "
+"first, second week of the month"
+msgid "%s on the %s week of the month"
+msgstr "%s a %s héten a hónapban"
+
+#: includes/Settings.class.php:358
+#, c-format
+msgctxt ""
+"Brief default description of a scheduling rule when some weeks of the month are "
+"included but all or no weekdays are selected. %s should be left alone and will be "
+"replaced by a comma-separated list of weeks in the following format: First, second "
+"week of the month"
+msgid "%s week of the month"
+msgstr "%s héten a hónapban"
+
+#: includes/Settings.class.php:359
+msgctxt "Brief default description of a scheduling rule when no times are set"
+msgid "All day"
+msgstr "Egész nap"
+
+#: includes/Settings.class.php:360
+msgctxt ""
+"Brief default description of a scheduling rule when an end time is set but no start "
+"time. If the end time is 6pm, it will read: Ends at 6pm"
+msgid "Ends at"
+msgstr "Véget ér"
+
+#: includes/Settings.class.php:361
+msgctxt ""
+"Brief default description of a scheduling rule when a start time is set but no end "
+"time. If the start time is 6pm, it will read: Starts at 6pm"
+msgid "Starts at"
+msgstr "Kezdődik"
+
+#: includes/Settings.class.php:362
+msgctxt "Separator between times of a scheduling rule"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: includes/Settings.class.php:374
+msgctxt "Monday abbreviation"
+msgid "Mo"
+msgstr "Hétfő"
+
+#: includes/Settings.class.php:375
+msgctxt "Tuesday abbreviation"
+msgid "Tu"
+msgstr "Kedd"
+
+#: includes/Settings.class.php:376
+msgctxt "Wednesday abbreviation"
+msgid "We"
+msgstr "Szerda"
+
+#: includes/Settings.class.php:377
+msgctxt "Thursday abbreviation"
+msgid "Th"
+msgstr "Csütörtök"
+
+#: includes/Settings.class.php:378
+msgctxt "Friday abbreviation"
+msgid "Fr"
+msgstr "Péntek"
+
+#: includes/Settings.class.php:379
+msgctxt "Saturday abbreviation"
+msgid "Sa"
+msgstr "Szombat"
+
+#: includes/Settings.class.php:380
+msgctxt "Sunday abbreviation"
+msgid "Su"
+msgstr "Vasárnap"
+
+#: includes/Settings.class.php:390
+msgctxt "Brief default description of a scheduling exception when no times are set"
+msgid "Closed all day"
+msgstr "Egész nap zárva"
+
+#: includes/WP_List_Table.BookingsTable.class.php:177
+#: includes/WP_List_Table.BookingsTable.class.php:179
+msgctxt ""
+"No date limit in a date range, eg 2014-* would mean any date from 2014 or after"
+msgid "*"
+msgstr "*"
+
+#: includes/WP_List_Table.BookingsTable.class.php:178
+msgctxt "Separator between two dates in a date range"
+msgid "&mdash;"
+msgstr "&mdash;"
+
+#: includes/WP_List_Table.BookingsTable.class.php:430
+msgctxt "Status label for bookings put in the trash"
+msgid "Trash"
+msgstr "Szemetes"
+
+#: includes/WP_List_Table.BookingsTable.class.php:783
+#, c-format
+msgctxt ""
+"Indicates which booking status is currently being filtered in the list of bookings."
+msgid "You're viewing bookings that have been marked as %s."
+msgstr "Foglalások, melyek meg lettek jelölve mint  %s."
+
+#: includes/WP_List_Table.BookingsTable.class.php:788
+#, c-format
+msgctxt "Notification of booking date range, eg - bookings from 2014-12-02-2014-12-05"
+msgid "Only bookings from %s are being shown."
+msgstr "Csak a %s foglalások mutatása."
