@@ -1,2 +1,3 @@
 # restaurant-reservations-hu_HU.po
-hungarian translation of restaurant resevations
+http://wordpress.org/support/plugin/restaurant-reservations\
+Hungarian translation
